@@ -1,0 +1,49 @@
+body {background-color:rgb(71, 71, 173)}
+
+.p1 {font-size: 200%;
+text-align: center;
+background-color: brown;
+border-color: azure;
+border-width: 6px;
+border-style: double;
+margin-left: 17%;
+margin-right: 50%;
+padding-left: 5%;
+padding-top: 3%;
+}
+
+.p2 {font-size: 200%;
+     text-align: center;
+    background-color: rgb(241, 42, 42);
+    border-color: azure;
+    border-width: 6px;
+    border-style: double;
+    margin-left: 50%;
+    margin-right: 17%;
+    padding-left: 5%;
+    padding-top: 3%;
+    }
+
+    .p3 {font-size: 200%;
+text-align: center;
+background-color: rgb(233, 58, 14);
+border-color: azure;
+border-width: 6px;
+border-style: double;
+margin-left: 17%;
+margin-right: 50%;
+padding-left: 5%;
+padding-top: 3%;
+        }
+
+ .p4 {font-size: 200%;
+ text-align: center;
+ background-color: rgb(240, 185, 33);
+border-color: azure;
+border-width: 6px;
+border-style: double;
+margin-left: 50%;
+margin-right: 17%;
+padding-left: 5%;
+padding-top: 3%;
+                    }
